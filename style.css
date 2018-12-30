@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(200, 100, 6);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-dark .navbar-brand {
+    color:cornflowerblue;
+}
+.bg-dark {
+    background-color: rgb(40, 40, 40) !important;
+}
